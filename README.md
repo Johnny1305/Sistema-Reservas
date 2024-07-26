@@ -24,4 +24,4 @@ El Sistema de Reservas para Restaurante es una aplicación de escritorio desarro
 - **Actualizar la Lista**: La lista de reservas se actualiza automáticamente cada 5 minutos para reflejar cualquier cambio reciente.
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia MIT.
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
